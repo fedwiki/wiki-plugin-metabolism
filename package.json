@@ -1,8 +1,8 @@
 {
-	"name":	"wiki-plugin-metabolism",
-	"version":	"0.1.0",
-	"description": "Federated Wiki - Metabolism Plug-in",
-	"keywords":	[
+  "name": "wiki-plugin-metabolism",
+  "version": "0.1.1",
+  "description": "Federated Wiki - Metabolism Plug-in",
+  "keywords": [
     "wiki",
     "federated wiki",
     "plugin"
