@@ -1,0 +1,255 @@
+{
+  "title": "About Metabolism Plugin",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "63d470bb3a7e16d4",
+      "text": "The Metabolism plugin computes daily metabolic rate equivalent from a series of activities and estimated hours of that activity per day."
+    },
+    {
+      "type": "paragraph",
+      "id": "509c70848f627c18",
+      "text": "For an example of the calculator in use try opening each of these pages, one after another, using the shift-click to keep each open."
+    },
+    {
+      "type": "paragraph",
+      "id": "2821fedc21576264",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "id": "4a819a5baaffb967",
+      "text": "[[Metabolic Equivalent of Task]] dataset."
+    },
+    {
+      "type": "paragraph",
+      "id": "a22b4b7c960fc9ff",
+      "text": "[[Metabolic Calculator]] baseline activity."
+    },
+    {
+      "type": "paragraph",
+      "id": "737507c9744f3dca",
+      "text": "[[Metabolic Goals]] for a more active lifestyle."
+    },
+    {
+      "type": "paragraph",
+      "id": "960c741ae1997d34",
+      "text": "[[Discover both Dimensions and Limits]] for a radar chart."
+    },
+    {
+      "type": "paragraph",
+      "id": "0f29c26e424ed51a",
+      "text": "Some versions of the federated wiki server are able to retrieve the dataset without first opening the dataset page. This worked until the dataset was moved into the plugin's documentation pages. [https://github.com/WardCunningham/Smallest-Federated-Wiki/commit/f0d5d559dd1b1a389619088a4a903ca5c81b6efc commit]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "About Metabolism Plugin",
+        "story": []
+      },
+      "date": 1389664828438
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "63d470bb3a7e16d4"
+      },
+      "id": "63d470bb3a7e16d4",
+      "type": "add",
+      "date": 1389664890463
+    },
+    {
+      "type": "edit",
+      "id": "63d470bb3a7e16d4",
+      "item": {
+        "type": "paragraph",
+        "id": "63d470bb3a7e16d4",
+        "text": "The Metabolism plugin computes daily metabolic rate equivalent from a series of activities and estimated hours of that activity per day."
+      },
+      "date": 1389665018086
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "509c70848f627c18",
+        "text": ""
+      },
+      "id": "509c70848f627c18",
+      "type": "add",
+      "after": "63d470bb3a7e16d4",
+      "date": 1389665018591
+    },
+    {
+      "type": "edit",
+      "id": "509c70848f627c18",
+      "item": {
+        "type": "paragraph",
+        "id": "509c70848f627c18",
+        "text": "For an example of the calculator in use try opening each of these pages, one after another, using the shift-click to keep each open."
+      },
+      "date": 1389665117617
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2821fedc21576264",
+        "text": ""
+      },
+      "id": "2821fedc21576264",
+      "type": "add",
+      "after": "509c70848f627c18",
+      "date": 1389665118127
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4a819a5baaffb967"
+      },
+      "id": "4a819a5baaffb967",
+      "type": "add",
+      "after": "2821fedc21576264",
+      "date": 1389665145604
+    },
+    {
+      "type": "edit",
+      "id": "4a819a5baaffb967",
+      "item": {
+        "type": "paragraph",
+        "id": "4a819a5baaffb967",
+        "text": "[[Metabolic Equivalent of Task]] dataset."
+      },
+      "date": 1389665165111
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a22b4b7c960fc9ff",
+        "text": ""
+      },
+      "id": "a22b4b7c960fc9ff",
+      "type": "add",
+      "after": "4a819a5baaffb967",
+      "date": 1389665180640
+    },
+    {
+      "type": "edit",
+      "id": "a22b4b7c960fc9ff",
+      "item": {
+        "type": "paragraph",
+        "id": "a22b4b7c960fc9ff",
+        "text": "[[Metabolic Calculator]] baseline activity."
+      },
+      "date": 1389665196581
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "737507c9744f3dca",
+        "text": ""
+      },
+      "id": "737507c9744f3dca",
+      "type": "add",
+      "after": "a22b4b7c960fc9ff",
+      "date": 1389665214684
+    },
+    {
+      "type": "edit",
+      "id": "737507c9744f3dca",
+      "item": {
+        "type": "paragraph",
+        "id": "737507c9744f3dca",
+        "text": "[[Metabolic Goals]] for a more active lifestyle."
+      },
+      "date": 1389665242091
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4e6ec4e8aa0dc598",
+        "text": ""
+      },
+      "id": "4e6ec4e8aa0dc598",
+      "type": "add",
+      "after": "737507c9744f3dca",
+      "date": 1389665242597
+    },
+    {
+      "type": "remove",
+      "id": "4e6ec4e8aa0dc598",
+      "date": 1389665247796
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "960c741ae1997d34",
+        "text": ""
+      },
+      "id": "960c741ae1997d34",
+      "type": "add",
+      "after": "737507c9744f3dca",
+      "date": 1389665290297
+    },
+    {
+      "type": "edit",
+      "id": "960c741ae1997d34",
+      "item": {
+        "type": "paragraph",
+        "id": "960c741ae1997d34",
+        "text": "[[Discover both Dimensions and Limits]] for a radar chart comparison."
+      },
+      "date": 1389665306073
+    },
+    {
+      "type": "edit",
+      "id": "960c741ae1997d34",
+      "item": {
+        "type": "paragraph",
+        "id": "960c741ae1997d34",
+        "text": "[[Discover both Dimensions and Limits]] for a radar chart."
+      },
+      "date": 1389665318904
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0f29c26e424ed51a"
+      },
+      "id": "0f29c26e424ed51a",
+      "type": "add",
+      "after": "960c741ae1997d34",
+      "date": 1389665757328
+    },
+    {
+      "type": "edit",
+      "id": "0f29c26e424ed51a",
+      "item": {
+        "type": "paragraph",
+        "id": "0f29c26e424ed51a",
+        "text": "Some versions of the federated wiki server are able to retrieve the dataset without first opening the dataset page. This worked until the dataset was moved into the plugin's documentation pages."
+      },
+      "date": 1389665878211
+    },
+    {
+      "type": "edit",
+      "id": "0f29c26e424ed51a",
+      "item": {
+        "type": "paragraph",
+        "id": "0f29c26e424ed51a",
+        "text": "Some versions of the federated wiki server are able to retrieve the dataset without first opening the dataset page. This worked until the dataset was moved into the plugin's documentation pages. [[https://github.com/WardCunningham/Smallest-Federated-Wiki/commit/f0d5d559dd1b1a389619088a4a903ca5c81b6efc commit]"
+      },
+      "date": 1389666121665
+    },
+    {
+      "type": "edit",
+      "id": "0f29c26e424ed51a",
+      "item": {
+        "type": "paragraph",
+        "id": "0f29c26e424ed51a",
+        "text": "Some versions of the federated wiki server are able to retrieve the dataset without first opening the dataset page. This worked until the dataset was moved into the plugin's documentation pages. [https://github.com/WardCunningham/Smallest-Federated-Wiki/commit/f0d5d559dd1b1a389619088a4a903ca5c81b6efc commit]"
+      },
+      "date": 1389666129398
+    }
+  ]
+}

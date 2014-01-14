@@ -1,0 +1,236 @@
+{
+  "title": "Metabolic Goals",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "7af6e3782cd6b93f",
+      "text": "This [[Metabolic Calculator]] has a few aspirational changes."
+    },
+    {
+      "type": "paragraph",
+      "id": "5945ee12f98312e2",
+      "text": "Try rendering both of these calculators together in a radar chart where we  [[Discover both Dimensions and Limits]]."
+    },
+    {
+      "type": "metabolism",
+      "id": "6c95d75603ca53a4",
+      "text": "USE Physical Activities\n8 sleeping\n8 computer office work\n1 reading newspaper\n2 sitting eat\n.2 driving automobile\n.9 slow bicycling\n.4 bicycling racing\nREMAINDER\nSUM"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "id": "b56c93786d03173f",
+      "item": {
+        "title": "Metabolic Goals"
+      },
+      "date": 1338160593952
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "metabolism",
+        "id": "59d569972b7bce9c",
+        "text": "USE Physical Activities\n8 sleeping\n8 computer office work\n1 reading newspaper\n2 sitting eat\n.5 driving automobile\n.75 slow bicycling\n.2 bicycling racing\nREMAINDER\nSUM"
+      },
+      "id": "59d569972b7bce9c",
+      "date": 1338160599439
+    },
+    {
+      "type": "edit",
+      "id": "59d569972b7bce9c",
+      "item": {
+        "type": "metabolism",
+        "id": "59d569972b7bce9c",
+        "text": "USE Physical Activities\n8 sleeping\n8 computer office work\n1 reading newspaper\n2 sitting eat\n.2 driving automobile\n.9 slow bicycling\n.4 bicycling racing\nREMAINDER\nSUM"
+      },
+      "date": 1338160779451
+    },
+    {
+      "type": "edit",
+      "id": "59d569972b7bce9c",
+      "item": {
+        "type": "metabolism",
+        "id": "59d569972b7bce9c",
+        "text": "USE Physical Activities\n8 sleeping\n8 computer office work\n1 reading newspaper\n2 sitting eat\n.2 driving automobile\n.9 slow bicycling\n.4 bicycling racing 19 mph\nREMAINDER\nSUM"
+      },
+      "date": 1338160843105
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5945ee12f98312e2"
+      },
+      "id": "5945ee12f98312e2",
+      "type": "add",
+      "after": "59d569972b7bce9c",
+      "date": 1338161998595
+    },
+    {
+      "type": "edit",
+      "id": "5945ee12f98312e2",
+      "item": {
+        "type": "paragraph",
+        "id": "5945ee12f98312e2",
+        "text": "Try rendering these numbers in a [[D3 Radar Chart]]. "
+      },
+      "date": 1338162002972
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7af6e3782cd6b93f"
+      },
+      "id": "7af6e3782cd6b93f",
+      "type": "add",
+      "after": "5945ee12f98312e2",
+      "date": 1338162027272
+    },
+    {
+      "type": "move",
+      "order": [
+        "7af6e3782cd6b93f",
+        "59d569972b7bce9c",
+        "5945ee12f98312e2"
+      ],
+      "id": "7af6e3782cd6b93f",
+      "date": 1338162029936
+    },
+    {
+      "type": "edit",
+      "id": "7af6e3782cd6b93f",
+      "item": {
+        "type": "paragraph",
+        "id": "7af6e3782cd6b93f",
+        "text": "This [[Metabolic Calculator]] has a few aspirational changes."
+      },
+      "date": 1338162053236
+    },
+    {
+      "type": "edit",
+      "id": "59d569972b7bce9c",
+      "item": {
+        "type": "metabolism",
+        "id": "59d569972b7bce9c",
+        "text": "USE Physical Activities\n8 sleeping\n8 computer office work\n1 reading newspaper\n2 sitting eat\n.2 driving automobile\n.9 slow bicycling\n.4 bicycling racing\nREMAINDER\nSUM"
+      },
+      "date": 1338162088284
+    },
+    {
+      "type": "edit",
+      "id": "59d569972b7bce9c",
+      "item": {
+        "type": "metabolism",
+        "id": "59d569972b7bce9c",
+        "text": "USE Physical Activities\n8 sleeping\n8 computer office work\n1 reading newspaper\n2 sitting eat sf\n.2 driving automobile\n.9 slow bicycling\n.4 bicycling racing\nREMAINDER\nSUM"
+      },
+      "date": 1338331323877
+    },
+    {
+      "type": "edit",
+      "id": "59d569972b7bce9c",
+      "item": {
+        "type": "metabolism",
+        "id": "59d569972b7bce9c",
+        "text": "USE Physical Activities\n8 sleeping\n8 computer office work\n1 reading newspaper\n2 sitting eat\n.2 driving automobile\n.9 slow bicycling\n.4 bicycling racing\nREMAINDER\nSUM"
+      },
+      "date": 1338359178926
+    },
+    {
+      "type": "remove",
+      "id": "59d569972b7bce9c",
+      "date": 1338386748070
+    },
+    {
+      "type": "edit",
+      "id": "7af6e3782cd6b93f",
+      "item": {
+        "type": "paragraph",
+        "id": "7af6e3782cd6b93f",
+        "text": "This [[Metabolic Calculator]] has a few aspirational changes."
+      },
+      "date": 1338386754062
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6c95d75603ca53a4",
+        "text": "USE Physical Activities\n8 sleeping\n8 computer office work\n1 reading newspaper\n2 sitting eat\n.2 driving automobile\n.9 slow bicycling\n.4 bicycling racing\nREMAINDER\nSUM"
+      },
+      "id": "6c95d75603ca53a4",
+      "type": "add",
+      "after": "7af6e3782cd6b93f",
+      "date": 1338386754568
+    },
+    {
+      "type": "edit",
+      "id": "6c95d75603ca53a4",
+      "item": {
+        "type": "metabolism",
+        "id": "6c95d75603ca53a4",
+        "text": "USE Physical Activities\n8 sleeping\n8 computer office work\n1 reading newspaper\n2 sitting eat\n.2 driving automobile\n.9 slow bicycling\n1.4 bicycling racing\nREMAINDER\nSUM"
+      },
+      "date": 1338387092625
+    },
+    {
+      "type": "edit",
+      "id": "6c95d75603ca53a4",
+      "item": {
+        "type": "metabolism",
+        "id": "6c95d75603ca53a4",
+        "text": "USE Physical Activities\n8 sleeping\n8 computer office work\n1 reading newspaper\n2 sitting eat\n.2 driving automobile\n.9 slow bicycling\n.4 bicycling racing\nREMAINDER\nSUM"
+      },
+      "date": 1338387122898
+    },
+    {
+      "type": "edit",
+      "id": "6c95d75603ca53a4",
+      "item": {
+        "type": "metabolism",
+        "id": "6c95d75603ca53a4",
+        "text": "USE Physical Activities\n8 sleeping\n8 computer office work\n1 reading newspaper\n2 sitting eat\n.2 driving automobile\n.9 slow bicycling\n.8 bicycling racing\nREMAINDER\nSUM"
+      },
+      "date": 1338387176149
+    },
+    {
+      "type": "edit",
+      "id": "6c95d75603ca53a4",
+      "item": {
+        "type": "metabolism",
+        "id": "6c95d75603ca53a4",
+        "text": "USE Physical Activities\n8 sleeping\n8 computer office work\n1 reading newspaper\n2 sitting eat\n.2 driving automobile\n.9 slow bicycling\n.4 bicycling racing\nREMAINDER\nSUM"
+      },
+      "date": 1338387188275
+    },
+    {
+      "type": "move",
+      "order": [
+        "7af6e3782cd6b93f",
+        "5945ee12f98312e2",
+        "6c95d75603ca53a4"
+      ],
+      "id": "5945ee12f98312e2",
+      "date": 1343706572539
+    },
+    {
+      "type": "edit",
+      "id": "5945ee12f98312e2",
+      "item": {
+        "type": "paragraph",
+        "id": "5945ee12f98312e2",
+        "text": "Try rendering these numbers in a radar chart where we  [[Discover both Dimensions and Limits]]."
+      },
+      "date": 1389665405725
+    },
+    {
+      "type": "edit",
+      "id": "5945ee12f98312e2",
+      "item": {
+        "type": "paragraph",
+        "id": "5945ee12f98312e2",
+        "text": "Try rendering both of these calculators together in a radar chart where we  [[Discover both Dimensions and Limits]]."
+      },
+      "date": 1389665441916
+    }
+  ]
+}

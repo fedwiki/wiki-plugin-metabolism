@@ -24,7 +24,7 @@
     {
       "type": "paragraph",
       "id": "c18aa8e70baacb38",
-      "text": "Try rendering these numbers in a [[D3 Radar Chart]]. Compare with [[Metabolic Goals]]."
+      "text": "Compare with [[Metabolic Goals]]."
     },
     {
       "type": "paragraph",
@@ -1842,6 +1842,17 @@
         "text": "USE Physical Activities\n8 sleeping\n8 computer office work\n1 reading newspaper\n2 sitting eat\n.5 driving automobile\n.75 slow bicycling\n.2 bicycling racing\nREMAINDER\nSUM"
       },
       "date": 1354983125615
+    },
+    {
+      "type": "edit",
+      "id": "c18aa8e70baacb38",
+      "item": {
+        "type": "paragraph",
+        "id": "c18aa8e70baacb38",
+        "text": "Compare with [[Metabolic Goals]]."
+      },
+      "date": 1389665472450
     }
-  ]
+  ],
+  "plugin": "metabolism"
 }

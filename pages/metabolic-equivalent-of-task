@@ -4943,15 +4943,14 @@
           "Category": "volunteer activities",
           "Activity": "walk/stand combination, for volunteer purposes"
         },
-        {
-        }
+        {}
       ],
       "text": "2011 [https://sites.google.com/site/compendiumofphysicalactivities/home Compendium of Physical Activities]"
     },
     {
       "type": "paragraph",
       "id": "d4d1a04eeb8d5158",
-      "text": "The metabolic equivalent of task (MET), or simply [http://en.wikipedia.org/wiki/Metabolic_equivalent metabolic equivalent], is a physiological measure expressing the energy cost of physical activities."
+      "text": "Metabolic equivalent of task (MET), or simply metabolic equivalent, is a physiological measure expressing the energy cost of physical activities. [http://en.wikipedia.org/wiki/Metabolic_equivalent wikipedia]"
     },
     {
       "type": "paragraph",
@@ -4966,12 +4965,12 @@
     {
       "type": "paragraph",
       "id": "be01802a88d26183",
-      "text": "Originally, a MET of 1.0 was considered as the [http://en.wikipedia.org/wiki/Resting_metabolic_rate resting metabolic rate] (RMR) obtained during quiet sitting. MET values of activities range from 0.9 (sleeping) to 18 (running at 17.5 km/h or a 5:31 mile pace)."
+      "text": "Originally, a MET of 1.0 was considered as the resting metabolic rate (RMR) obtained during quiet sitting. MET values of activities range from 0.9 (sleeping) to 18 (running at 17.5 km/h or a 5:31 mile pace). [http://en.wikipedia.org/wiki/Resting_metabolic_rate wikipedia]"
     },
     {
       "type": "paragraph",
       "id": "da28746b2848078b",
-      "text": "The [https://sites.google.com/site/compendiumofphysicalactivities/home Compendium of Physical Activities] was developed for use in epidemiologic studies to standardize the assignment of MET intensities in physical activity questionnaires. Dr. Bill Haskell from Stanford University conceptualized the Compendium and developed a prototype for the document."
+      "text": "The Compendium of Physical Activities was developed for use in epidemiologic studies to standardize the assignment of MET intensities in physical activity questionnaires. Dr. Bill Haskell from Stanford University conceptualized the Compendium and developed a prototype for the document. [https://sites.google.com/site/compendiumofphysicalactivities/home webpage]"
     },
     {
       "type": "paragraph",
@@ -9947,8 +9946,7 @@
             "Category": "volunteer activities",
             "Activity": "walk/stand combination, for volunteer purposes"
           },
-          {
-          }
+          {}
         ],
         "text": "met.csv"
       },
@@ -14995,8 +14993,7 @@
             "Category": "volunteer activities",
             "Activity": "walk/stand combination, for volunteer purposes"
           },
-          {
-          }
+          {}
         ],
         "text": "2011 [https://sites.google.com/site/compendiumofphysicalactivities/home Compendium of Physical Activities]"
       },
@@ -15297,6 +15294,57 @@
         "text": "Originally, a MET of 1.0 was considered as the [http://en.wikipedia.org/wiki/Resting_metabolic_rate resting metabolic rate] (RMR) obtained during quiet sitting. MET values of activities range from 0.9 (sleeping) to 18 (running at 17.5 km/h or a 5:31 mile pace)."
       },
       "date": 1336270100158
+    },
+    {
+      "type": "edit",
+      "id": "d4d1a04eeb8d5158",
+      "item": {
+        "type": "paragraph",
+        "id": "d4d1a04eeb8d5158",
+        "text": "The metabolic equivalent of task (MET), or simply metabolic equivalent, is a physiological measure expressing the energy cost of physical activities. [http://en.wikipedia.org/wiki/Metabolic_equivalent wikipedia]"
+      },
+      "date": 1389665530194
+    },
+    {
+      "type": "edit",
+      "id": "d4d1a04eeb8d5158",
+      "item": {
+        "type": "paragraph",
+        "id": "d4d1a04eeb8d5158",
+        "text": "Metabolic equivalent of task (MET), or simply metabolic equivalent, is a physiological measure expressing the energy cost of physical activities. [http://en.wikipedia.org/wiki/Metabolic_equivalent wikipedia]"
+      },
+      "date": 1389665544680
+    },
+    {
+      "type": "edit",
+      "id": "be01802a88d26183",
+      "item": {
+        "type": "paragraph",
+        "id": "be01802a88d26183",
+        "text": "Originally, a MET of 1.0 was considered as the resting metabolic rate (RMR) obtained during quiet sitting. MET values of activities range from 0.9 (sleeping) to 18 (running at 17.5 km/h or a 5:31 mile pace). [[http://en.wikipedia.org/wiki/Resting_metabolic_rate wikipedia]"
+      },
+      "date": 1389665609094
+    },
+    {
+      "type": "edit",
+      "id": "be01802a88d26183",
+      "item": {
+        "type": "paragraph",
+        "id": "be01802a88d26183",
+        "text": "Originally, a MET of 1.0 was considered as the resting metabolic rate (RMR) obtained during quiet sitting. MET values of activities range from 0.9 (sleeping) to 18 (running at 17.5 km/h or a 5:31 mile pace). [http://en.wikipedia.org/wiki/Resting_metabolic_rate wikipedia]"
+      },
+      "date": 1389665615789
+    },
+    {
+      "type": "edit",
+      "id": "da28746b2848078b",
+      "item": {
+        "type": "paragraph",
+        "id": "da28746b2848078b",
+        "text": "The Compendium of Physical Activities was developed for use in epidemiologic studies to standardize the assignment of MET intensities in physical activity questionnaires. Dr. Bill Haskell from Stanford University conceptualized the Compendium and developed a prototype for the document. [https://sites.google.com/site/compendiumofphysicalactivities/home webpage]"
+      },
+      "date": 1389665724114
     }
-  ]
+  ],
+  "plugin": "metabolism"
 }
