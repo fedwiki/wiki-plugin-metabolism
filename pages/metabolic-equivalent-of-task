@@ -4958,7 +4958,7 @@
       "text": "See [[Metabolic Calculator]]."
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "5895af316239481b",
       "text": "One MET is defined as the ratio of metabolic rate (and therefore the rate of energy consumption) during a specific physical activity to a reference metabolic rate, set by convention to:\n<li>3.5 ml O2·kg<sup>−1</sup>·min<sup>−1</sup> or equivalently\n<li>1 kcal·kg<sup>−1</sup>· h<sup>−1</sup> or\n<li>4.184 kJ·kg<sup>−1</sup>· h<sup>−1</sup>"
     },
@@ -15344,6 +15344,16 @@
         "text": "The Compendium of Physical Activities was developed for use in epidemiologic studies to standardize the assignment of MET intensities in physical activity questionnaires. Dr. Bill Haskell from Stanford University conceptualized the Compendium and developed a prototype for the document. [https://sites.google.com/site/compendiumofphysicalactivities/home webpage]"
       },
       "date": 1389665724114
+    },
+    {
+      "type": "edit",
+      "id": "5895af316239481b",
+      "item": {
+        "type": "html",
+        "id": "5895af316239481b",
+        "text": "One MET is defined as the ratio of metabolic rate (and therefore the rate of energy consumption) during a specific physical activity to a reference metabolic rate, set by convention to:\n<li>3.5 ml O2·kg<sup>−1</sup>·min<sup>−1</sup> or equivalently\n<li>1 kcal·kg<sup>−1</sup>· h<sup>−1</sup> or\n<li>4.184 kJ·kg<sup>−1</sup>· h<sup>−1</sup>"
+      },
+      "date": 1418319163244
     }
   ],
   "plugin": "metabolism"
