@@ -1,3 +1,10 @@
+###
+ * Federated Wiki : Metabolism Plugin
+ *
+ * Licensed under the MIT license.
+ * https://github.com/fedwiki/wiki-plugin-metabolism/blob/master/LICENSE.txt
+###
+
 window.plugins.metabolism =
   emit: (div, item) ->
   bind: (div, item) ->
