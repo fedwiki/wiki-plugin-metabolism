@@ -15,7 +15,7 @@ window.plugins.metabolism =
 
     div.addClass 'radar-source'
     div.get(0).radarData = -> output
-    div.mousemove (e) -> $(div).triggerHandler('thumb', $(e.target).text())
+    div.on 'mousemove', (e) -> $(div).triggerHandler('thumb', $(e.target).text())
 
     # http://stella.laurenzo.org/2011/03/bulletproof-node-js-coding/
 
@@ -34,7 +34,7 @@ window.plugins.metabolism =
 
 
     query = (s) ->
-      keys = $.trim(s).split ' '
+      keys = s.trim().split ' '
       choices = data
       for k in keys
         next if k == ' '
@@ -118,6 +118,6 @@ window.plugins.metabolism =
         text = report.join "\n"
         table = $('<table style="width:100%; background:#eee; padding:.8em;"/>').html text
         div.append table
-        div.dblclick -> wiki.textEditor div, item
+        div.on 'dblclick', () -> wiki.textEditor div, item
 
     calculate item
