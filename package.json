@@ -34,11 +34,11 @@
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
-    "esbuild": "^0.27.3",
-    "eslint": "^10.0.0",
-    "globals": "^17.3.0",
+    "esbuild": "^0.28.0",
+    "eslint": "^10.3.0",
+    "globals": "^17.6.0",
     "grunt-git-authors": "~3",
-    "prettier": "^3.8.1"
+    "prettier": "^3.8.3"
   },
   "license": "MIT",
   "repository": {
